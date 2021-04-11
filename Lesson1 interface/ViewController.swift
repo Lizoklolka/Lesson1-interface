@@ -8,12 +8,20 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet weak var loginText: UITextField!
+    
+    @IBOutlet weak var passwordText: UITextField!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
-
-
+    
+    @IBAction func enterButton(_ sender: Any) {
+        if self.loginText.text == "admin",
+           self.passwordText.text == "1234567" {
+            performSegue(withIdentifier: "blueSegue", sender: self)
+        }
+    }
 }
 

@@ -13,6 +13,7 @@
 		EE5A7163261E2CCD00CB9248 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE5A7161261E2CCD00CB9248 /* Main.storyboard */; };
 		EE5A7165261E2CCE00CB9248 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE5A7164261E2CCE00CB9248 /* Assets.xcassets */; };
 		EE5A7168261E2CCE00CB9248 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE5A7166261E2CCE00CB9248 /* LaunchScreen.storyboard */; };
+		EE5A717326206C5C00CB9248 /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE5A717226206C5C00CB9248 /* BlueViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EE5A7164261E2CCE00CB9248 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE5A7167261E2CCE00CB9248 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE5A7169261E2CCE00CB9248 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE5A717226206C5C00CB9248 /* BlueViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				EE5A715D261E2CCD00CB9248 /* SceneDelegate.swift */,
 				EE5A715F261E2CCD00CB9248 /* ViewController.swift */,
 				EE5A7161261E2CCD00CB9248 /* Main.storyboard */,
+				EE5A717226206C5C00CB9248 /* BlueViewController.swift */,
 				EE5A7164261E2CCE00CB9248 /* Assets.xcassets */,
 				EE5A7166261E2CCE00CB9248 /* LaunchScreen.storyboard */,
 				EE5A7169261E2CCE00CB9248 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				EE5A7160261E2CCD00CB9248 /* ViewController.swift in Sources */,
 				EE5A715C261E2CCD00CB9248 /* AppDelegate.swift in Sources */,
+				EE5A717326206C5C00CB9248 /* BlueViewController.swift in Sources */,
 				EE5A715E261E2CCD00CB9248 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

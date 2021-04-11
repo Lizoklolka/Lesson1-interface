@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "ModernLines-Calendar_D2B838F8-C3A1-4762-9866-66D5130E8397.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
